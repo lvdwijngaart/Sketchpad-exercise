@@ -9,3 +9,7 @@
     aspect-ratio: 1;   
     
 }
+
+.active {
+    background-color: darkgrey;
+}
